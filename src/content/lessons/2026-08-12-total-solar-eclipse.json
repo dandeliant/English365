@@ -1,0 +1,209 @@
+{
+  "id": "2026-08-12-total-solar-eclipse",
+  "date_assigned": "2026-08-12",
+  "date_alternatives": [],
+  "title_en": "The First Step",
+  "title_pl": "Pierwszy krok",
+  "location": "Medinaceli, Soria, Castile and León, Spain",
+  "image": "/images/2026-08-12-total-solar-eclipse.jpg",
+  "image_orientation": "landscape",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["eclipse", "sun", "moon", "corona", "astronomy", "spain", "travel", "dreams", "sky", "once-in-a-lifetime"],
+  "themes": ["total-solar-eclipse", "the-first-step", "twenty-seven-years-of-waiting", "solar-corona", "eclipse-chasing"],
+  "did_you_know": {
+    "en": "A total solar eclipse depends on a coincidence so unlikely that it looks arranged. The Sun is roughly four hundred times wider than the Moon — and it also happens to sit roughly four hundred times further away, so the two discs appear almost exactly the same size in our sky. No other planet in the Solar System has a moon that fits its sun this neatly. And the fit is temporary: the Moon is drifting away from us by about 3.8 centimetres a year, and in some six hundred million years it will look too small to cover the Sun at all. Total eclipses will simply stop happening. We are alive during the window in which they are possible. What that window reveals is the corona — the Sun's outer atmosphere, over a million degrees hot, stretching millions of kilometres into space, and completely drowned out by ordinary daylight. Before satellites, the only way to study it was to wait for the Moon. Science has collected on those few minutes more than once: helium was discovered in the Sun's spectrum during an eclipse in 1868, thirteen years before anyone found it on Earth, and in 1919 photographs taken during totality showed starlight bending around the Sun, which is how Einstein's general relativity was first confirmed. The small pink flame at the edge of this photograph belongs to the same show — a prominence, a loop of glowing gas suspended above the Sun by magnetic fields, larger than the Earth. And the reason people travel across continents for this: the Moon's shadow is only about a hundred kilometres wide, so any single place on Earth waits on average some 375 years for its turn.",
+    "pl": "Całkowite zaćmienie Słońca opiera się na zbiegu okoliczności tak nieprawdopodobnym, że wygląda na zaaranżowany. Słońce jest mniej więcej czterysta razy szersze od Księżyca — i akurat znajduje się też mniej więcej czterysta razy dalej, więc obie tarcze wydają się na naszym niebie niemal dokładnie tej samej wielkości. Żadna inna planeta Układu Słonecznego nie ma księżyca, który tak równo pasowałby do jej słońca. A to dopasowanie jest tymczasowe: Księżyc oddala się od nas o jakieś 3,8 centymetra rocznie i za jakieś sześćset milionów lat będzie wyglądał na zbyt mały, by w ogóle zakryć Słońce. Całkowite zaćmienia po prostu przestaną się zdarzać. Żyjemy w oknie czasu, w którym są możliwe. To, co owo okno odsłania, to korona — zewnętrzna atmosfera Słońca, rozgrzana do ponad miliona stopni, sięgająca milionów kilometrów w przestrzeń i całkowicie zagłuszona przez zwykłe światło dnia. Przed erą satelitów jedynym sposobem, by ją badać, było czekanie na Księżyc. Nauka nieraz inkasowała te kilka minut: hel odkryto w widmie Słońca podczas zaćmienia w 1868 roku, trzynaście lat wcześniej, nim ktokolwiek znalazł go na Ziemi, a w 1919 roku zdjęcia zrobione w czasie totalności pokazały światło gwiazd uginające się wokół Słońca — tak po raz pierwszy potwierdzono ogólną teorię względności Einsteina. Mały różowy płomień na krawędzi tego zdjęcia należy do tego samego spektaklu: to protuberancja, pętla świecącego gazu podtrzymywana nad Słońcem przez pole magnetyczne, większa od Ziemi. A powód, dla którego ludzie jadą po to przez kontynenty, jest taki: cień Księżyca ma tylko około stu kilometrów szerokości, więc pojedyncze miejsce na Ziemi czeka na swoją kolej średnio jakieś 375 lat."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 365: całkowite zaćmienie Słońca, 12 sierpnia 2026, Medinaceli w Hiszpanii (fot. Daniel Ostrowski). Marzenie z 1999 roku spełnione po dwudziestu siedmiu latach — a wszystko zaczęło się od jednego kliknięcia „kup bilety”. Motyw: czasem między marzeniem a jego spełnieniem stoi tylko decyzja, żeby zrobić pierwszy krok. Sześć poziomów (A1–C2). english365",
+    "fb_caption_en": "Today on English 365: a total solar eclipse over Medinaceli, Spain, on 12 August 2026 (photo: Daniel Ostrowski). A dream from 1999, kept for twenty-seven years, that began with a single click on 'buy tickets'. The theme: sometimes all that stands between a dream and making it come true is the decision to take the first step. Six CEFR levels (A1–C2). english365",
+    "hashtags": ["#English365", "#LearnEnglish", "#SolarEclipse", "#Eclipse2026", "#Spain", "#Astronomy", "#Dreams", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. The sky is black. In the middle there is a big black circle. The circle is the Moon. The Moon is in front of the Sun. Around it you can see a white ring of light. On the left there is a small pink spot. This is a solar eclipse. It is not night. It is day, but the sky is dark. It is only two minutes. Then the Sun comes back.",
+      "text_pl": "Spójrz na to zdjęcie. Niebo jest czarne. Pośrodku jest duże czarne koło. To koło to Księżyc. Księżyc jest przed Słońcem. Wokół widać biały pierścień światła. Po lewej stronie jest mała różowa plamka. To jest zaćmienie Słońca. To nie jest noc. Jest dzień, ale niebo jest ciemne. To trwa tylko dwie minuty. Potem Słońce wraca.",
+      "vocab": [
+        { "term": "sun", "ipa_br": "/sʌn/", "pl": "słońce", "new": false },
+        { "term": "moon", "ipa_br": "/muːn/", "pl": "księżyc", "new": false },
+        { "term": "circle", "ipa_br": "/ˈsɜːkəl/", "pl": "koło, okrąg", "new": false },
+        { "term": "ring", "ipa_br": "/rɪŋ/", "pl": "pierścień", "new": true },
+        { "term": "white", "ipa_br": "/waɪt/", "pl": "biały", "new": false },
+        { "term": "pink", "ipa_br": "/pɪŋk/", "pl": "różowy", "new": false },
+        { "term": "spot", "ipa_br": "/spɒt/", "pl": "plamka, punkt", "new": false },
+        { "term": "eclipse", "ipa_br": "/ɪˈklɪps/", "pl": "zaćmienie", "new": true },
+        { "term": "minute", "ipa_br": "/ˈmɪnɪt/", "pl": "minuta", "new": true },
+        { "term": "dark", "ipa_br": "/dɑːk/", "pl": "ciemny", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "sun", "answer": "A" },
+            { "word": "moon", "answer": "B" },
+            { "word": "eclipse", "answer": "C" },
+            { "word": "ring", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "☀️" },
+            { "label": "B", "text": "🌙" },
+            { "label": "C", "text": "🌑" },
+            { "label": "D", "text": "⭕" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This photograph shows a total solar eclipse. It was taken on the twelfth of August 2026, near the small town of Medinaceli in Spain. The black circle in the middle is the Moon. It is passing exactly in front of the Sun and covering it completely. Around the dark circle there is a soft white crown of light. That is the outer atmosphere of the Sun, and we can see it only during a total eclipse. The small pink spot on the left is very hot gas above the surface of the Sun. For less than two minutes the sky went dark and the air got colder. Then the Moon moved on and the Sun came back.",
+      "text_pl": "To zdjęcie pokazuje całkowite zaćmienie Słońca. Zostało zrobione dwunastego sierpnia 2026 roku, niedaleko małego miasteczka Medinaceli w Hiszpanii. Czarne koło pośrodku to Księżyc. Przechodzi dokładnie przed Słońcem i zakrywa je całkowicie. Wokół ciemnego koła jest miękka biała korona światła. To zewnętrzna atmosfera Słońca i możemy ją zobaczyć tylko podczas całkowitego zaćmienia. Mała różowa plamka po lewej to bardzo gorący gaz nad powierzchnią Słońca. Przez niecałe dwie minuty niebo pociemniało, a powietrze zrobiło się chłodniejsze. Potem Księżyc odsunął się i Słońce wróciło.",
+      "vocab": [
+        { "term": "total", "ipa_br": "/ˈtəʊtəl/", "pl": "całkowity", "new": true },
+        { "term": "cover", "ipa_br": "/ˈkʌvə/", "pl": "zakrywać", "new": true },
+        { "term": "completely", "ipa_br": "/kəmˈpliːtli/", "pl": "całkowicie", "new": true },
+        { "term": "exactly", "ipa_br": "/ɪɡˈzæktli/", "pl": "dokładnie", "new": false },
+        { "term": "crown", "ipa_br": "/kraʊn/", "pl": "korona", "new": false },
+        { "term": "outer", "ipa_br": "/ˈaʊtə/", "pl": "zewnętrzny", "new": true },
+        { "term": "atmosphere", "ipa_br": "/ˈætməsfɪə/", "pl": "atmosfera", "new": false },
+        { "term": "surface", "ipa_br": "/ˈsɜːfɪs/", "pl": "powierzchnia", "new": false },
+        { "term": "gas", "ipa_br": "/ɡæs/", "pl": "gaz", "new": true },
+        { "term": "town", "ipa_br": "/taʊn/", "pl": "miasto, miasteczko", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The photograph was taken near the small town of ___ in Spain.", "answer": "Medinaceli" },
+            { "sentence": "The black circle in the middle is the ___.", "answer": "Moon", "alts": ["moon"] },
+            { "sentence": "Around the dark circle there is a soft white ___ of light.", "answer": "crown" },
+            { "sentence": "The small pink spot is very hot ___ above the surface of the Sun.", "answer": "gas" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the twelfth of August 2026, near Medinaceli in central Spain. It shows a total solar eclipse. The Moon has moved exactly in front of the Sun and hidden it completely, leaving a black disc with a ring of pale light around it. That light is the corona, the outer atmosphere of the Sun. It is always there, but ordinary daylight is far too bright for us to notice it; only when the Moon blocks the Sun does the corona appear. The small pink flame on the left edge is a prominence, a loop of hot gas rising above the surface. All of this lasted under two minutes, with the Sun already low over the Spanish hills. The photographer had waited twenty-seven years for those two minutes. In 1999, as an eleven-year-old boy, he watched a partial eclipse from Poland and dreamed of one day seeing the Moon cover the Sun completely. The journey that finally made it happen began with a single click on 'buy tickets'. Sometimes, he says, the only thing standing between a dream and the real thing is the decision to take the first step.",
+      "text_pl": "To zdjęcie zostało zrobione dwunastego sierpnia 2026 roku, niedaleko Medinaceli w środkowej Hiszpanii. Pokazuje całkowite zaćmienie Słońca. Księżyc przesunął się dokładnie przed Słońce i zasłonił je całkowicie, zostawiając czarną tarczę z pierścieniem bladego światła wokół. To światło to korona, zewnętrzna atmosfera Słońca. Jest tam zawsze, ale zwykłe światło dnia jest o wiele za jasne, byśmy ją zauważyli; dopiero gdy Księżyc zasłania Słońce, korona się pojawia. Mały różowy płomień na lewej krawędzi to protuberancja, pętla gorącego gazu wznosząca się nad powierzchnią. Wszystko to trwało niecałe dwie minuty, przy Słońcu już nisko nad hiszpańskimi wzgórzami. Fotograf czekał na te dwie minuty dwadzieścia siedem lat. W 1999 roku, jako jedenastoletni chłopiec, oglądał częściowe zaćmienie z Polski i marzył, żeby kiedyś zobaczyć, jak Księżyc zakrywa Słońce całkowicie. Podróż, która wreszcie to umożliwiła, zaczęła się od jednego kliknięcia „kup bilety”. Czasem, jak mówi, jedyne, co stoi między marzeniem a jego spełnieniem, to decyzja, żeby zrobić pierwszy krok.",
+      "vocab": [
+        { "term": "disc", "ipa_br": "/dɪsk/", "pl": "tarcza, dysk", "new": false },
+        { "term": "pale", "ipa_br": "/peɪl/", "pl": "blady", "new": false },
+        { "term": "corona", "ipa_br": "/kəˈrəʊnə/", "pl": "korona słoneczna", "new": true },
+        { "term": "daylight", "ipa_br": "/ˈdeɪlaɪt/", "pl": "światło dnia", "new": true },
+        { "term": "block", "ipa_br": "/blɒk/", "pl": "zasłaniać, blokować", "new": false },
+        { "term": "prominence", "ipa_br": "/ˈprɒmɪnəns/", "pl": "protuberancja", "new": true },
+        { "term": "loop", "ipa_br": "/luːp/", "pl": "pętla", "new": true },
+        { "term": "edge", "ipa_br": "/edʒ/", "pl": "krawędź", "new": false },
+        { "term": "partial", "ipa_br": "/ˈpɑːʃəl/", "pl": "częściowy", "new": true },
+        { "term": "journey", "ipa_br": "/ˈdʒɜːni/", "pl": "podróż", "new": false },
+        { "term": "decision", "ipa_br": "/dɪˈsɪʒən/", "pl": "decyzja", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 12 August 2026 near Medinaceli in central Spain.", "answer": true },
+            { "statement": "The corona is only there during an eclipse, and disappears afterwards.", "answer": false },
+            { "statement": "The pink flame on the left edge is a prominence, a loop of hot gas above the Sun's surface.", "answer": true },
+            { "statement": "The photographer saw a total eclipse for the first time in 1999, when he was eleven.", "answer": false },
+            { "statement": "The whole eclipse lasted under two minutes, with the Sun already low over the hills.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "Nothing else in the sky depends on a coincidence quite like this one. The Sun is about four hundred times wider than the Moon, and it also happens to lie about four hundred times further away, so from the ground the two discs look almost exactly the same size. That is why the Moon can hide the Sun so precisely, and why the result is not simply darkness but this: a black circle rimmed with silver light. The photograph was made on the twelfth of August 2026 near Medinaceli, in central Spain, on one of the narrow strips of land the Moon's shadow crossed that evening. The pale halo is the corona, the Sun's outer atmosphere, more than a million degrees hot and invisible on any ordinary day. The pink point at the edge is a prominence, a fountain of glowing gas held above the surface by magnetic fields. For the photographer, though, the picture is less about physics than about patience. He first watched a partial eclipse in 1999, at the age of eleven, and it took twenty-seven years, one impulsive click on 'buy tickets' and a flight to Spain to finish what that afternoon had started. In Poland the next total eclipse is more than a hundred years away — well beyond any lifetime now being lived. If you want to stand inside the Moon's shadow, you cannot wait for it to come to you. You have to travel to meet it.",
+      "text_pl": "Nic innego na niebie nie opiera się na takim zbiegu okoliczności jak to. Słońce jest około czterysta razy szersze od Księżyca i akurat leży też około czterysta razy dalej, więc z ziemi obie tarcze wyglądają na niemal dokładnie tej samej wielkości. Dlatego Księżyc potrafi zasłonić Słońce tak precyzyjnie i dlatego efektem nie jest po prostu ciemność, lecz to: czarne koło obrzeżone srebrnym światłem. Zdjęcie powstało dwunastego sierpnia 2026 roku pod Medinaceli, w środkowej Hiszpanii, na jednym z wąskich pasów ziemi, przez które przeszedł tego wieczoru cień Księżyca. Blada aureola to korona, zewnętrzna atmosfera Słońca, rozgrzana do ponad miliona stopni i niewidoczna w każdy zwyczajny dzień. Różowy punkt na krawędzi to protuberancja, fontanna świecącego gazu utrzymywana nad powierzchnią przez pole magnetyczne. Dla fotografa jednak zdjęcie jest mniej o fizyce, a bardziej o cierpliwości. Pierwsze częściowe zaćmienie oglądał w 1999 roku, w wieku jedenastu lat, i potrzeba było dwudziestu siedmiu lat, jednego impulsywnego kliknięcia „kup bilety” i lotu do Hiszpanii, by dokończyć to, co zaczęło się tamtego popołudnia. W Polsce na następne całkowite zaćmienie trzeba czekać ponad sto lat — daleko poza każde życie, które toczy się dzisiaj. Jeśli chcesz stanąć w cieniu Księżyca, nie możesz czekać, aż przyjdzie do ciebie. Musisz pojechać mu na spotkanie.",
+      "vocab": [
+        { "term": "coincidence", "ipa_br": "/kəʊˈɪnsɪdəns/", "pl": "zbieg okoliczności", "new": false },
+        { "term": "precisely", "ipa_br": "/prɪˈsaɪsli/", "pl": "precyzyjnie, dokładnie", "new": false },
+        { "term": "rim", "ipa_br": "/rɪm/", "pl": "obrzeżać; obrzeże", "new": false },
+        { "term": "strip", "ipa_br": "/strɪp/", "pl": "pas, wąski pasek", "new": false },
+        { "term": "shadow", "ipa_br": "/ˈʃædəʊ/", "pl": "cień", "new": false },
+        { "term": "halo", "ipa_br": "/ˈheɪləʊ/", "pl": "aureola, poświata", "new": true },
+        { "term": "invisible", "ipa_br": "/ɪnˈvɪzəbəl/", "pl": "niewidoczny", "new": true },
+        { "term": "fountain", "ipa_br": "/ˈfaʊntɪn/", "pl": "fontanna", "new": true },
+        { "term": "magnetic", "ipa_br": "/mæɡˈnetɪk/", "pl": "magnetyczny", "new": false },
+        { "term": "impulsive", "ipa_br": "/ɪmˈpʌlsɪv/", "pl": "impulsywny", "new": true },
+        { "term": "patience", "ipa_br": "/ˈpeɪʃəns/", "pl": "cierpliwość", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The Sun is about four hundred times wider than the Moon and about four hundred times further away.", "answer": true },
+            { "statement": "According to the text, the two discs look almost exactly the same size from the ground.", "answer": true },
+            { "statement": "The corona is described as cool and easily visible on an ordinary day.", "answer": false },
+            { "statement": "A prominence is a fountain of glowing gas held above the surface by magnetic fields.", "answer": true },
+            { "statement": "The text says the next total eclipse in Poland will happen within a normal lifetime.", "answer": false },
+            { "statement": "The photographer's twenty-seven-year wait began with a partial eclipse in 1999.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "The strangest thing about a total solar eclipse is how narrow the conditions for it are — in space, in time, and in a single human life. In space, because the Moon's shadow lands on the Earth as a track only about a hundred kilometres wide; any particular village waits, on average, some three hundred and seventy-five years for its turn, which is why on the twelfth of August 2026 the small Spanish town of Medinaceli filled up with people who had come a very long way. In time, because the whole spectacle rests on a coincidence that is slowly expiring: the Moon is receding from us by roughly 3.8 centimetres a year, and in a few hundred million years it will be too small in the sky to cover the Sun at all. And in a life, because these two minutes have to fall inside your own. What the shadow uncovers is worth the journey. With the blinding disc gone, the corona appears — the Sun's outer atmosphere, a million-degree crown of plasma that daylight normally erases completely — together with the pink glow of the chromosphere and, here, one prominence burning at the left edge like a struck match. And behind the photograph there is a quieter story. The man holding the camera had been carrying this image in his head since 1999, when he was eleven and watched the Moon take a bite out of the Sun over Poland. Twenty-seven years later, the distance between the dream and the thing itself turned out to be exactly one decision long.",
+      "text_pl": "Najdziwniejsze w całkowitym zaćmieniu Słońca jest to, jak wąskie są warunki, w których zachodzi — w przestrzeni, w czasie i w pojedynczym ludzkim życiu. W przestrzeni, bo cień Księżyca pada na Ziemię jako pas szeroki na jakieś sto kilometrów; konkretna wieś czeka na swoją kolej średnio jakieś trzysta siedemdziesiąt pięć lat, dlatego dwunastego sierpnia 2026 roku małe hiszpańskie miasteczko Medinaceli wypełniło się ludźmi, którzy przyjechali z bardzo daleka. W czasie, bo cały spektakl opiera się na zbiegu okoliczności, który powoli wygasa: Księżyc oddala się od nas o mniej więcej 3,8 centymetra rocznie i za kilkaset milionów lat będzie na niebie zbyt mały, by w ogóle zakryć Słońce. I w życiu, bo te dwie minuty muszą wypaść w twoim własnym. To, co odsłania cień, warte jest podróży. Gdy oślepiająca tarcza znika, pojawia się korona — zewnętrzna atmosfera Słońca, milionstopniowy wieniec plazmy, który światło dnia zwykle całkowicie wymazuje — a wraz z nią różowy blask chromosfery i, tutaj, jedna protuberancja płonąca na lewej krawędzi jak potarta zapałka. Za zdjęciem stoi też cichsza historia. Człowiek trzymający aparat nosił ten obraz w głowie od 1999 roku, gdy jako jedenastolatek patrzył, jak Księżyc wygryza kawałek Słońca nad Polską. Dwadzieścia siedem lat później okazało się, że odległość między marzeniem a rzeczą samą wynosi dokładnie jedną decyzję.",
+      "vocab": [
+        { "term": "narrow", "ipa_br": "/ˈnærəʊ/", "pl": "wąski", "new": false },
+        { "term": "track", "ipa_br": "/træk/", "pl": "pas, ślad, trasa", "new": false },
+        { "term": "recede", "ipa_br": "/rɪˈsiːd/", "pl": "oddalać się, cofać się", "new": false },
+        { "term": "expire", "ipa_br": "/ɪkˈspaɪə/", "pl": "wygasać", "new": true },
+        { "term": "uncover", "ipa_br": "/ʌnˈkʌvə/", "pl": "odsłaniać", "new": true },
+        { "term": "blinding", "ipa_br": "/ˈblaɪndɪŋ/", "pl": "oślepiający", "new": true },
+        { "term": "plasma", "ipa_br": "/ˈplæzmə/", "pl": "plazma", "new": true },
+        { "term": "chromosphere", "ipa_br": "/ˈkrəʊməsfɪə/", "pl": "chromosfera", "new": true },
+        { "term": "erase", "ipa_br": "/ɪˈreɪz/", "pl": "wymazywać", "new": false },
+        { "term": "spectacle", "ipa_br": "/ˈspektəkəl/", "pl": "spektakl, widowisko", "new": true },
+        { "term": "take a bite out of", "ipa_br": "/ˌteɪk ə ˈbaɪt aʊt ɒv/", "pl": "wygryźć kawałek czegoś", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text says the Moon's shadow lands on the Earth as a track only about a hundred kilometres wide.", "answer": true },
+            { "statement": "According to the text, a particular place waits on average about 375 years for a total eclipse.", "answer": true },
+            { "statement": "The text claims the Moon is slowly moving closer to the Earth.", "answer": false },
+            { "statement": "The corona is described as a million-degree crown of plasma that daylight normally erases.", "answer": true },
+            { "statement": "The photographer had been carrying the image in his head since 1999, when he was eleven.", "answer": true },
+            { "statement": "According to the text, the coincidence that makes total eclipses possible will last for ever.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "For a few minutes on the twelfth of August 2026, the ordinary rules of daylight were suspended over a hilltop town in central Spain. The Moon slid into the last available gap, the landscape drained of colour, the temperature dropped, and where the Sun had been there was suddenly this: an absence with a silver rim. It is difficult to overstate how contingent that image is. Our Moon fits our Sun almost perfectly only because it is four hundred times smaller and, by no design at all, four hundred times nearer — an arithmetic accident unique among the planets and, on a geological clock, a fleeting one, since the Moon is retreating by a few centimetres a year and will eventually be too small for the job. Total eclipses are a phase the Earth is passing through, and we happen to be here for it. What the coincidence buys is a rare view of the Sun's own atmosphere: the corona, hotter by orders of magnitude than the surface beneath it and ordinarily washed out by the very light it surrounds, and, at the left edge of this frame, a single prominence — a magnetic arch of incandescent gas, comfortably larger than the planet from which it is being photographed. Yet the photograph's private meaning has nothing to do with any of that. It closes a circuit opened in 1999, when an eleven-year-old in Poland watched a partial eclipse and made himself a promise he had no means of keeping. Twenty-seven years of waiting ended not with an opportunity but with a decision: one click, one ticket, one first step — and the whole apparatus of the Solar System obligingly did the rest.",
+      "text_pl": "Przez kilka minut dwunastego sierpnia 2026 roku zwykłe prawa dnia zostały zawieszone nad miasteczkiem na wzgórzu w środkowej Hiszpanii. Księżyc wsunął się w ostatnią wolną szczelinę, krajobraz wypłukał się z barw, temperatura spadła, a tam, gdzie było Słońce, pojawiło się nagle to: nieobecność ze srebrną obwódką. Trudno przecenić, jak bardzo przypadkowy jest ten obraz. Nasz Księżyc pasuje do naszego Słońca niemal idealnie tylko dlatego, że jest czterysta razy mniejszy i — bez żadnego zamysłu — czterysta razy bliżej: arytmetyczny przypadek, jedyny taki wśród planet, a w zegarze geologicznym ulotny, bo Księżyc wycofuje się o kilka centymetrów rocznie i w końcu będzie do tego zadania zbyt mały. Całkowite zaćmienia to faza, przez którą Ziemia właśnie przechodzi, a nam akurat trafiło się przy niej być. To, co ów zbieg okoliczności kupuje, to rzadki widok własnej atmosfery Słońca: korony, o rzędy wielkości gorętszej niż powierzchnia pod nią i normalnie zmywanej przez to samo światło, które otacza, oraz — na lewej krawędzi tego kadru — jednej protuberancji: magnetycznego łuku rozżarzonego gazu, spokojnie większego od planety, z której jest fotografowany. A jednak prywatne znaczenie tego zdjęcia nie ma z tym wszystkim nic wspólnego. Zamyka ono obwód otwarty w 1999 roku, gdy jedenastolatek w Polsce oglądał częściowe zaćmienie i złożył sobie obietnicę, której nie miał jak dotrzymać. Dwadzieścia siedem lat czekania skończyło się nie okazją, lecz decyzją: jedno kliknięcie, jeden bilet, jeden pierwszy krok — a cała maszyneria Układu Słonecznego usłużnie zrobiła resztę.",
+      "vocab": [
+        { "term": "suspend", "ipa_br": "/səˈspend/", "pl": "zawiesić", "new": true },
+        { "term": "drain", "ipa_br": "/dreɪn/", "pl": "wypłukać, opróżnić", "new": false },
+        { "term": "contingent", "ipa_br": "/kənˈtɪndʒənt/", "pl": "przypadkowy, zależny od okoliczności", "new": false },
+        { "term": "fleeting", "ipa_br": "/ˈfliːtɪŋ/", "pl": "ulotny", "new": true },
+        { "term": "retreat", "ipa_br": "/rɪˈtriːt/", "pl": "wycofywać się", "new": true },
+        { "term": "orders of magnitude", "ipa_br": "/ˌɔːdəz əv ˈmæɡnɪtjuːd/", "pl": "rzędy wielkości", "new": true },
+        { "term": "incandescent", "ipa_br": "/ˌɪnkænˈdesənt/", "pl": "rozżarzony", "new": false },
+        { "term": "arch", "ipa_br": "/ɑːtʃ/", "pl": "łuk", "new": false },
+        { "term": "circuit", "ipa_br": "/ˈsɜːkɪt/", "pl": "obwód", "new": true },
+        { "term": "obligingly", "ipa_br": "/əˈblaɪdʒɪŋli/", "pl": "usłużnie, uprzejmie", "new": true },
+        { "term": "apparatus", "ipa_br": "/ˌæpəˈreɪtəs/", "pl": "aparat, maszyneria", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The text presents the fit between Moon and Sun as an arithmetic accident rather than a design.", "answer": true },
+            { "statement": "According to the text, total eclipses are a permanent feature of the Earth's sky.", "answer": false },
+            { "statement": "The corona is described as hotter by orders of magnitude than the surface beneath it.", "answer": true },
+            { "statement": "The prominence at the left edge is said to be smaller than the planet it is photographed from.", "answer": false },
+            { "statement": "The text says the twenty-seven-year wait ended with a decision rather than with an opportunity.", "answer": true },
+            { "statement": "The photograph closes a circuit opened in 1999 by an eleven-year-old watching a partial eclipse in Poland.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}
